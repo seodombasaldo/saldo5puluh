@@ -14,7 +14,7 @@
   <meta name="og:url" content="https://aprikalsel.id/wp-content/file/" />
   <meta name="og:title"
     content="SALDO5D | Situs Togel Online Bandar Toto Togel Agen Toto Slot Terbaik" />
-  <meta name="google-site-verification" content="j9P5jstR_kiEOGPiwroqTUKHYT_99wlNwtDezWkzZzU" />
+  <meta name="google-site-verification" content="03hK9EvusJLuxCYLM0vdP28LOFYBRPw1CRQJUFUlvjo" />
   <meta name="og:type" content="product" />
   <meta name="og:description"
     content="Saldo5d merupakan situs togel online dan bandar toto togel resmi daftar agen toto slot terbaik gampang menang setiap hari." />
@@ -3890,6 +3890,7 @@
   </div>
 
   <!-- end footer -->
+  <!-- 滑块验证码组件 -->
   <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
   <script>
     define('@ali/wpk-reporter', [], function () {
